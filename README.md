@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Data enthusiast from India, passionate about uncovering insights and solving problems with Machine Learning.</h3>
+<img align = 'right' src = 'https://drive.google.com/file/d/1p3raUfOFIaZkJHdjPyiMaZ7Qn0uTkr1f/view?usp=sharing' alt = 'Coding Image'>
 
 - 💬 Ask me about **Data analysis and insights , Machine learning algorithms, Tableau, Power BI, and Excel for data visualization and reporting, Exploratory data analysis, Outlier detection and visualization**
 
