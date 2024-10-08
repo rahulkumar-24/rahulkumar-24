@@ -2,7 +2,7 @@
 <h3 align="center">Data enthusiast from India, passionate about uncovering insights and solving problems with Machine Learning.</h3>
 <img align = 'right' src = 'landing image.png' alt = 'Coding Image' width = '400'>
 
-- 💬 Ask me about **Data analysis and insights , Machine learning algorithms, Tableau, Power BI, and Excel for data visualization and reporting, Exploratory data analysis, Outlier detection and visualization**
+- 💬 Ask me about **Python , Data analysis and insights , Machine learning algorithms, Tableau, Power BI, and Excel for data visualization and reporting, Exploratory data analysis, Outlier detection and visualization**
 
 - 📫 How to reach me **rahulkumar.19k8@gmail.com**
 
